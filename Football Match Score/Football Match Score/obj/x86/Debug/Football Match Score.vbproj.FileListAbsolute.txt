@@ -1,0 +1,18 @@
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\bin\Debug\Football Match Score.exe
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\bin\Debug\Football Match Score.pdb
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\bin\Debug\Football Match Score.xml
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\obj\x86\Debug\Football_Match_Score.Form1.resources
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\obj\x86\Debug\Football_Match_Score.Resources.resources
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\obj\x86\Debug\Football Match Score.vbproj.GenerateResource.Cache
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\obj\x86\Debug\Football Match Score.exe
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\obj\x86\Debug\Football Match Score.xml
+C:\Users\Erang\AppData\Local\Temporary Projects\Football Match Score\obj\x86\Debug\Football Match Score.pdb
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\obj\x86\Debug\Football Match Score.exe
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\obj\x86\Debug\Football Match Score.xml
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\obj\x86\Debug\Football Match Score.pdb
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\bin\Debug\Football Match Score.exe
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\bin\Debug\Football Match Score.pdb
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\bin\Debug\Football Match Score.xml
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\obj\x86\Debug\Football_Match_Score.Form1.resources
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\obj\x86\Debug\Football_Match_Score.Resources.resources
+D:\Eranga\VB Programs\Football Match Score\Football Match Score\obj\x86\Debug\Football Match Score.vbproj.GenerateResource.Cache

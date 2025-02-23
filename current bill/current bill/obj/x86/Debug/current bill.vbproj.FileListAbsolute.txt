@@ -1,0 +1,27 @@
+E:\navidu\m11\current bill\current bill\bin\Debug\current bill.exe
+E:\navidu\m11\current bill\current bill\bin\Debug\current bill.pdb
+E:\navidu\m11\current bill\current bill\bin\Debug\current bill.xml
+E:\navidu\m11\current bill\current bill\obj\x86\Debug\current_bill.Form1.resources
+E:\navidu\m11\current bill\current bill\obj\x86\Debug\current_bill.Resources.resources
+E:\navidu\m11\current bill\current bill\obj\x86\Debug\current bill.vbproj.GenerateResource.Cache
+E:\navidu\m11\current bill\current bill\obj\x86\Debug\current bill.exe
+E:\navidu\m11\current bill\current bill\obj\x86\Debug\current bill.xml
+E:\navidu\m11\current bill\current bill\obj\x86\Debug\current bill.pdb
+E:\Charith\VB_Progarms\current bill\current bill\obj\x86\Debug\current bill.exe
+E:\Charith\VB_Progarms\current bill\current bill\obj\x86\Debug\current bill.xml
+E:\Charith\VB_Progarms\current bill\current bill\obj\x86\Debug\current bill.pdb
+E:\Charith\VB_Progarms\current bill\current bill\bin\Debug\current bill.exe
+E:\Charith\VB_Progarms\current bill\current bill\bin\Debug\current bill.pdb
+E:\Charith\VB_Progarms\current bill\current bill\bin\Debug\current bill.xml
+E:\Charith\VB_Progarms\current bill\current bill\obj\x86\Debug\current_bill.Form1.resources
+E:\Charith\VB_Progarms\current bill\current bill\obj\x86\Debug\current_bill.Resources.resources
+E:\Charith\VB_Progarms\current bill\current bill\obj\x86\Debug\current bill.vbproj.GenerateResource.Cache
+D:\Eranga\VB Programs\current bill\current bill\obj\x86\Debug\current bill.exe
+D:\Eranga\VB Programs\current bill\current bill\obj\x86\Debug\current bill.xml
+D:\Eranga\VB Programs\current bill\current bill\obj\x86\Debug\current bill.pdb
+D:\Eranga\VB Programs\current bill\current bill\bin\Debug\current bill.exe
+D:\Eranga\VB Programs\current bill\current bill\bin\Debug\current bill.pdb
+D:\Eranga\VB Programs\current bill\current bill\bin\Debug\current bill.xml
+D:\Eranga\VB Programs\current bill\current bill\obj\x86\Debug\current_bill.Form1.resources
+D:\Eranga\VB Programs\current bill\current bill\obj\x86\Debug\current_bill.Resources.resources
+D:\Eranga\VB Programs\current bill\current bill\obj\x86\Debug\current bill.vbproj.GenerateResource.Cache
